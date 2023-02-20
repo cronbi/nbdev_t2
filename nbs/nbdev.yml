@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_t2"
+  site-url: "https://cronbi.github.io/nbdev_t2"
+  description: "repo"
+  repo-branch: main
+  repo-url: "https://github.com/cronbi/nbdev_t2"
